@@ -1,0 +1,5 @@
+{
+  "name": "Career Path Predictor AI",
+  "description": "A Deep Neural Network powered tool to predict career paths based on CGPA and interests using TensorFlow.js.",
+  "requestFramePermissions": []
+}
